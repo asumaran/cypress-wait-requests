@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "cypress": "cypress open",
-    "client": " http-server"
+    "client": " http-server -c-1"
   },
   "keywords": [],
   "author": "",
